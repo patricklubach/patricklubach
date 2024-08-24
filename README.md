@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">I'm a Senior Cloud Architect/Engineer at Accenture.</h3>
+<h3 align="center">I'm a Senior Cloud Architect at Nordcloud.</h3>
 
-- 🌱 I’m currently learning **Python, Rust, Kotlin**
+- 🌱 I’m currently learning **Python, Golang, JavaScript**
 
 - 👨‍💻 All of my projects are available at [github.com](github.com)
 
-- 📝 I regularly write articles on [my](my)
-
 - 💬 Ask me about **Python, Kubernetes, Automation**
-
-- 📫 How to reach me **plubach1994@gmail.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6384e823b346c](https://cvdesignr.com/p/6384e823b346c)
 
